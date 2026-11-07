@@ -10,3 +10,7 @@ wheels/
 .venv
 .idea/
 docs/
+
+# Archivos que genera el programa
+data/*.tmp
+data/inventario_omitidas.txt
