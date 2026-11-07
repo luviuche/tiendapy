@@ -1,2 +1,1 @@
-def main() -> None:
-    print("Hello from tiendapy!")
+"""TiendaPy: inventario y ventas para una tienda de barrio."""
